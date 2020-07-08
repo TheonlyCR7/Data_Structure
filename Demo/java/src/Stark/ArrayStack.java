@@ -37,7 +37,8 @@ public class ArrayStack<E> implements Stack<E> {
         array.addLast(e);
     }
 
-    //去掉最后一个数据
+    // 出栈
+    @Override
     public E pop(){
         return array.removeLast();
     }

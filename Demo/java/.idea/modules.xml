@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AVLMap/AVLMap.iml" filepath="$PROJECT_DIR$/AVLMap/AVLMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AVLTree/AVLTree.iml" filepath="$PROJECT_DIR$/AVLTree/AVLTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashCode/HashCode.iml" filepath="$PROJECT_DIR$/HashCode/HashCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapHeap/MapHeap.iml" filepath="$PROJECT_DIR$/MapHeap/MapHeap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mapvl/Mapvl.iml" filepath="$PROJECT_DIR$/Mapvl/Mapvl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedBlackTree/RedBlackTree.iml" filepath="$PROJECT_DIR$/RedBlackTree/RedBlackTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SegmentTree/SegmentTree.iml" filepath="$PROJECT_DIR$/SegmentTree/SegmentTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stark/Stark.iml" filepath="$PROJECT_DIR$/Stark/Stark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trie/Trie.iml" filepath="$PROJECT_DIR$/Trie/Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnionFind/UnionFind.iml" filepath="$PROJECT_DIR$/UnionFind/UnionFind.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
     </modules>
   </component>

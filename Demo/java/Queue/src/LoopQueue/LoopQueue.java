@@ -1,3 +1,5 @@
+
+// 循环队列
 public class LoopQueue<E> implements Queue<E> {
 
     private E[] data;
@@ -31,6 +33,7 @@ public class LoopQueue<E> implements Queue<E> {
         return size;
     }
 
+    // 入队
     @Override
     public void enqueue(E e){
 
@@ -42,6 +45,7 @@ public class LoopQueue<E> implements Queue<E> {
         size ++;
     }
 
+    // 出队
     @Override
     public E dequeue(){
 

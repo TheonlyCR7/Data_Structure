@@ -33,7 +33,6 @@ public class array<E> {
         return size == 0;
     }
 
-
     public void addLast( E e) {
 
         //查看是否报错

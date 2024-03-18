@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/4-4-Recursion/01-Linked-List-Problems-in-Leetcode/01-Linked-List-Problems-in-Leetcode.iml" filepath="$PROJECT_DIR$/4-4-Recursion/01-Linked-List-Problems-in-Leetcode/01-Linked-List-Problems-in-Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-4-Recursion/02-Test-Your-LinkedList-Solution/02-Test-Your-LinkedList-Solution.iml" filepath="$PROJECT_DIR$/4-4-Recursion/02-Test-Your-LinkedList-Solution/02-Test-Your-LinkedList-Solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-4-Recursion/03-Recursion-Basics/03-Recursion-Basics.iml" filepath="$PROJECT_DIR$/4-4-Recursion/03-Recursion-Basics/03-Recursion-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-4-Recursion/04-LinkedList-and-Recursion/04-LinkedList-and-Recursion.iml" filepath="$PROJECT_DIR$/4-4-Recursion/04-LinkedList-and-Recursion/04-LinkedList-and-Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-4-Recursion/06-Debug-Recursive-Solution/06-Debug-Recursive-Solution.iml" filepath="$PROJECT_DIR$/4-4-Recursion/06-Debug-Recursive-Solution/06-Debug-Recursive-Solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1-array/1-array.iml" filepath="$PROJECT_DIR$/1-array/1-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-Trie/10-Trie.iml" filepath="$PROJECT_DIR$/10-Trie/10-Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-UnionFind/11-UnionFind.iml" filepath="$PROJECT_DIR$/11-UnionFind/11-UnionFind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-AVLTree/12-AVLTree.iml" filepath="$PROJECT_DIR$/12-AVLTree/12-AVLTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-RedBlackTree/13-RedBlackTree.iml" filepath="$PROJECT_DIR$/13-RedBlackTree/13-RedBlackTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-1-HashCode/14-1-HashCode.iml" filepath="$PROJECT_DIR$/14-1-HashCode/14-1-HashCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-2-HashTable/14-2-HashTable.iml" filepath="$PROJECT_DIR$/14-2-HashTable/14-2-HashTable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-2-MapHeap/3-2-MapHeap.iml" filepath="$PROJECT_DIR$/3-2-MapHeap/3-2-MapHeap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-3-Map_AVL/3-3-Map_AVL.iml" filepath="$PROJECT_DIR$/3-3-Map_AVL/3-3-Map_AVL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-Priority-Queue/8-Priority-Queue.iml" filepath="$PROJECT_DIR$/8-Priority-Queue/8-Priority-Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-SegmentTree/9-SegmentTree.iml" filepath="$PROJECT_DIR$/9-SegmentTree/9-SegmentTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-4-Recursion/Optional-01-Recursive-LinkedList/Optional-01-Recursive-LinkedList.iml" filepath="$PROJECT_DIR$/4-4-Recursion/Optional-01-Recursive-LinkedList/Optional-01-Recursive-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Other/Other.iml" filepath="$PROJECT_DIR$/Other/Other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/for_java.iml" filepath="$PROJECT_DIR$/for_java.iml" />
+    </modules>
+  </component>
+</project>

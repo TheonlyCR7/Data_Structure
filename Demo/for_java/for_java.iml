@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/2-1-Stack" isTestSource="false" packagePrefix="Stack" />
+      <sourceFolder url="file://$MODULE_DIR$/2-2-stack_leecode" isTestSource="false" packagePrefix="stack_leecode" />
+      <sourceFolder url="file://$MODULE_DIR$/3-1-queue" isTestSource="false" packagePrefix="queue" />
+      <sourceFolder url="file://$MODULE_DIR$/4-1-Linked_List_Stack" isTestSource="false" packagePrefix="Linked_List" />
+      <sourceFolder url="file://$MODULE_DIR$/4-2-LinkedList_Queue" isTestSource="false" packagePrefix="LinkedList_Queue" />
+      <sourceFolder url="file://$MODULE_DIR$/4-3-LinkedList_Leecode" isTestSource="false" packagePrefix="LinkedList_Leecode" />
+      <sourceFolder url="file://$MODULE_DIR$/5-Binary_Search_tree" isTestSource="false" packagePrefix="Binary_Search_tree" />
+      <sourceFolder url="file://$MODULE_DIR$/6-1-Set_BST" isTestSource="false" packagePrefix="Set_BST" />
+      <sourceFolder url="file://$MODULE_DIR$/6-2-Set_Linkedlist" isTestSource="false" packagePrefix="Set_Linkedlist" />
+      <sourceFolder url="file://$MODULE_DIR$/7-Map" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
